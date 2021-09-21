@@ -1,0 +1,5 @@
+Download data from the link below.
+
+https://www.kaggle.com/wordsforthewise/lending-club
+
+Extract data to this folder
